@@ -4,6 +4,6 @@ Vypracováno v rámci kurzu Udemy [JavaScript 2022](https://www.udemy.com/share/
 
 Marketingová webová stránka online bankovnictví "Bankist" s dynamickými efekty, vytvořena na základech pokročilé práce s DOM manipulací a eventy.
 
-## Ve vývoji
+### Ve vývoji
 * lazy loading obrázků
 * komponenta carousel
