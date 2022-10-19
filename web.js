@@ -319,7 +319,7 @@ const slider = function () {
 
   // Keyboard next/previous slide
   document.addEventListener("keydown", function (e) {
-    console.log(e);
+    // console.log(e);
     if (e.key === "ArrowLeft") prevSlide();
     e.key === "ArrowRight" && nextSlide();
   });
@@ -328,6 +328,7 @@ const slider = function () {
   dotContainer.addEventListener("click", function (e) {
     // Matching strategy
     if (e.target.classList.contains("dots__dot")) {
+      // const slide  = e.target.dataset.slide;
       const { slide } = e.target.dataset;
       goToSlide(slide);
       activateDot(slide);
