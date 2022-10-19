@@ -11,7 +11,5 @@ Marketingová webová stránka online bankovnictví "Bankist" s dynamickými efe
 * menu fade animace
 * sticky navigace
 * reveal animace sekcí
-
-### Ve vývoji
 * lazy loading obrázků
-* komponenta carousel
+* komponenta slider
